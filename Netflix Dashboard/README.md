@@ -1,1 +1,1 @@
-![alt text](file:///Users/mansipandya/Desktop/Netflix.png)
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/mansipandyaa29/Tableau-Dashboards/blob/main/Netflix%20Dashboard/Netflix.png)https://github.com/mansipandyaa29/Tableau-Dashboards/blob/main/Netflix%20Dashboard/Netflix.png)
